@@ -7,4 +7,4 @@ As for the model used, we use multi-layered perceptron (MLP). Detailed
 discussion is annotated in the main file.
 
 The dataset is taken from the
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Automobile)
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Automobile).
